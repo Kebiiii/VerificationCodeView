@@ -2,7 +2,7 @@
 
 本项目 用于 Android 中的短信验证码输入框，或者其他密码输入框样式
 
-
+![Image text](https://github.com/Kebiiii/VerificationCodeView/blob/master/picture/Screenshot.png)
 
 
 ## 使用
